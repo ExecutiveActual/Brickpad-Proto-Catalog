@@ -1,0 +1,14 @@
+{
+    "name": "Brickpad.ProtoCatalog",
+    "rootNamespace": "Brickpad.ProtoCatalog",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,31 @@
+* text=auto eol=lf
+
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.tif binary
+*.tiff binary
+*.tga binary
+*.psd binary
+*.exr binary
+*.hdr binary
+*.fbx binary
+*.obj binary
+*.blend binary
+*.dll binary
+*.so binary
+*.dylib binary
+*.a binary
+*.pdb binary
+*.mdb binary
+*.unitypackage binary
+*.zip binary
+*.7z binary
+*.ttf binary
+*.otf binary
+*.wav binary
+*.mp3 binary
+*.ogg binary
+*.mp4 binary

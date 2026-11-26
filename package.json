@@ -1,0 +1,33 @@
+{
+  "name": "com.brickpad.protocatalog",
+  "displayName": "Brickpad Proto-Catalog",
+  "version": "0.1.0",
+  "unity": "6000.0",
+  "description": "A catalog of reusable Unity systems, tools, and features, polished out of prototypes and shared across projects.",
+  "author": {
+    "name": "Brickpad"
+  },
+  "license": "MIT",
+  "licensesUrl": "https://github.com/ExecutiveActual/Brickpad-Proto-Catalog/blob/main/LICENSE.md",
+  "changelogUrl": "https://github.com/ExecutiveActual/Brickpad-Proto-Catalog/blob/main/CHANGELOG.md",
+  "documentationUrl": "https://github.com/ExecutiveActual/Brickpad-Proto-Catalog/blob/main/README.md",
+  "keywords": [
+    "catalog",
+    "gameplay",
+    "prototype",
+    "tools",
+    "unity"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ExecutiveActual/Brickpad-Proto-Catalog.git"
+  },
+  "dependencies": {},
+  "samples": [
+    {
+      "displayName": "Placeholder",
+      "description": "Shows the sample layout and logs the catalog version. Not a gameplay module.",
+      "path": "Samples~/Placeholder"
+    }
+  ]
+}
